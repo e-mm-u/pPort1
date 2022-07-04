@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    background-color: rgba(43, 102, 102, 0.74);
+    
+}
+.hello-world{
+
+    background-color: rgba(43, 102, 102, 0.849);
+}
+.desc{
+    background-color: rgba(43, 102, 102, 0.548);;
+}
+h1{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    font-weight: 600;
+}
+p{
+    text-decoration: none;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    font-weight: 400;
+}
